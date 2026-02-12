@@ -1,0 +1,18 @@
+{
+	"version": 2,
+	"currentProfileId": "s9inh6nc",
+	"profiles": [
+		{
+			"name": "Default",
+			"id": "default"
+		},
+		{
+			"name": "systems_engineering_HS25",
+			"id": "kl83ze50"
+		},
+		{
+			"name": "systems_engineering_FS26",
+			"id": "s9inh6nc"
+		}
+	]
+}

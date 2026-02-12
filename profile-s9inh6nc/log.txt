@@ -1,0 +1,155 @@
+2026-02-12 22:39:27: App: Profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/profile-s9inh6nc
+2026-02-12 22:39:27: App: Root profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:39:27: Database was open successfully
+2026-02-12 22:39:27: Checking for database schema update...
+2026-02-12 22:39:28: Current database version <null>
+2026-02-12 22:39:28: Upgrading database from version 0
+2026-02-12 22:39:28: Converting database to version 1
+2026-02-12 22:39:28: Converting database to version 2
+2026-02-12 22:39:28: Converting database to version 3
+2026-02-12 22:39:28: Converting database to version 4
+2026-02-12 22:39:28: Converting database to version 5
+2026-02-12 22:39:28: Converting database to version 6
+2026-02-12 22:39:28: Converting database to version 7
+2026-02-12 22:39:28: Converting database to version 8
+2026-02-12 22:39:28: Converting database to version 9
+2026-02-12 22:39:28: Converting database to version 10
+2026-02-12 22:39:28: Converting database to version 11
+2026-02-12 22:39:28: Converting database to version 12
+2026-02-12 22:39:28: Converting database to version 13
+2026-02-12 22:39:28: Converting database to version 14
+2026-02-12 22:39:28: Converting database to version 15
+2026-02-12 22:39:28: Converting database to version 16
+2026-02-12 22:39:28: Converting database to version 17
+2026-02-12 22:39:28: Converting database to version 18
+2026-02-12 22:39:28: Converting database to version 19
+2026-02-12 22:39:28: Converting database to version 20
+2026-02-12 22:39:28: Converting database to version 21
+2026-02-12 22:39:28: Converting database to version 22
+2026-02-12 22:39:28: Converting database to version 23
+2026-02-12 22:39:28: Converting database to version 24
+2026-02-12 22:39:28: Converting database to version 25
+2026-02-12 22:39:28: Converting database to version 26
+2026-02-12 22:39:28: Converting database to version 27
+2026-02-12 22:39:28: Converting database to version 28
+2026-02-12 22:39:28: Converting database to version 29
+2026-02-12 22:39:28: Converting database to version 30
+2026-02-12 22:39:28: Converting database to version 31
+2026-02-12 22:39:28: Converting database to version 32
+2026-02-12 22:39:28: Converting database to version 33
+2026-02-12 22:39:28: Converting database to version 34
+2026-02-12 22:39:28: Migration failed with fallback and will not be repeated - saving version number
+2026-02-12 22:39:28: Converting database to version 35
+2026-02-12 22:39:28: Converting database to version 36
+2026-02-12 22:39:28: Converting database to version 37
+2026-02-12 22:39:28: Converting database to version 38
+2026-02-12 22:39:28: Converting database to version 39
+2026-02-12 22:39:28: Converting database to version 40
+2026-02-12 22:39:28: Converting database to version 41
+2026-02-12 22:39:28: Converting database to version 42
+2026-02-12 22:39:28: Converting database to version 43
+2026-02-12 22:39:28: Converting database to version 44
+2026-02-12 22:39:28: Converting database to version 45
+2026-02-12 22:39:28: Converting database to version 46
+2026-02-12 22:39:28: Converting database to version 47
+2026-02-12 22:39:28: Converting database to version 48
+2026-02-12 22:39:28: Converting database to version 49
+2026-02-12 22:39:28: New version: 49. Previously recorded version: 0
+2026-02-12 22:39:28: Initializing tables...
+2026-02-12 22:39:28: KeychainService: Driver unsupported:electron-safeStorage
+2026-02-12 22:39:28: KeychainService: Driver unsupported:node-keytar
+2026-02-12 22:39:28: KeychainService: checking if keychain supported
+2026-02-12 22:39:28: KeychainService: Failed to start in read-only mode -- no supported drivers found.
+2026-02-12 22:39:28: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2026-02-12 22:39:28: handleSyncStartupOperation: Processing operation: 0
+2026-02-12 22:39:28: App: Client ID: 8528e25bae294124b45fe5dad0c8ede0
+2026-02-12 22:39:28: models/Setting: Skipping all default migrations...
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: ResourceFetcher: Auto-add resources: Mode: always
+2026-02-12 22:39:28: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2026-02-12 22:39:28: ResourceFetcher: Auto-added resources: 0
+2026-02-12 22:39:28: permanentlyDeleteOldData: Items to permanently delete: {"folderIds":[],"noteIds":[]}
+2026-02-12 22:39:28: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2026-02-12 22:39:28: Running migration: 20
+2026-02-12 22:39:28: DeleteAction: MigrationService: ; Item IDs: 1
+2026-02-12 22:39:28: Running migration: 27
+2026-02-12 22:39:28: DeleteAction: MigrationService: ; Item IDs: 2
+2026-02-12 22:39:28: Running migration: 33
+2026-02-12 22:39:28: SearchEngine: Updating FTS table...
+2026-02-12 22:39:28: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:39:28: SearchEngine: Updated FTS table in 2ms. Inserted: 0. Deleted: 0
+2026-02-12 22:39:28: Performance: SearchEngine/syncTables: End at 2.02s (took 109.2ms)
+2026-02-12 22:39:28: DeleteAction: MigrationService: ; Item IDs: 3
+2026-02-12 22:39:28: Running migration: 35
+2026-02-12 22:39:28: SearchEngine: Updating FTS table...
+2026-02-12 22:39:28: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:39:28: SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0
+2026-02-12 22:39:28: Performance: SearchEngine/syncTables: End at 2.13s (took 106.7ms)
+2026-02-12 22:39:28: DeleteAction: MigrationService: ; Item IDs: 4
+2026-02-12 22:39:28: Running migration: 42
+2026-02-12 22:39:28: DeleteAction: MigrationService: ; Item IDs: 5
+2026-02-12 22:39:28: Performance: BaseApplication/start: End at 2.15s (took [[ 1.27s ]])
+2026-02-12 22:39:28: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: app.start: doing regular boot
+2026-02-12 22:39:28: App: Setting up auto-updater service...
+2026-02-12 22:39:28: OcrService: Starting background service...
+2026-02-12 22:39:28: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:39:28: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:39:28: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:39:28: OcrService: Found 0 resources to process...
+2026-02-12 22:39:28: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2026-02-12 22:39:28: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/profile-s9inh6nc/cache/io.github.jackgruber.backup
+2026-02-12 22:39:29: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/profile-s9inh6nc/cache/io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:39:29: SpellCheckerServiceDriverNative: Set effective languages to "en-US"
+2026-02-12 22:39:29: Performance: app/start: End at 2.3s (took [[ 1.42s ]])
+2026-02-12 22:39:29: Performance: main: End at 2.47s (took [[ 1.6s ]])
+2026-02-12 22:39:29: joplin.plugins: Starting plugin: io.github.jackgruber.backup
+2026-02-12 22:39:29: OcrService: 0 resources have been processed.
+2026-02-12 22:39:29: joplin.plugins: Starting plugin: io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:39:29: useFormNote: Sync has finished and note has never been changed - reloading it
+2026-02-12 22:39:29: useFormNote: [warn] Trying to reload note that has been deleted: <null>
+2026-02-12 22:39:29: joplin.plugins: Finished running onStart handler: io.github.personalizedrefrigerator.js-draw (Took 140ms)
+2026-02-12 22:39:29: joplin.plugins: Finished running onStart handler: io.github.jackgruber.backup (Took 314ms)
+2026-02-12 22:39:29: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:39:29: Preparing scheduled sync
+2026-02-12 22:39:29: Sync cancelled - no sync target is selected.
+2026-02-12 22:39:29: Updating all notifications...
+2026-02-12 22:39:29: Garbage collecting alarms...
+2026-02-12 22:39:30: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[],"effectiveNoteId":null,"windowId":"default"}
+2026-02-12 22:39:30: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:39:32: RevisionService: maintenance: Starting...
+2026-02-12 22:39:32: RevisionService: maintenance: Service is enabled
+2026-02-12 22:39:33: RevisionService: collectRevisions: Created revisions for 0 notes
+2026-02-12 22:39:33: RevisionService: maintenance: Done in 105ms
+2026-02-12 22:39:38: SearchEngine: Updating FTS table...
+2026-02-12 22:39:38: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:39:38: SearchEngine: Updated FTS table in 2ms. Inserted: 0. Deleted: 0
+2026-02-12 22:39:38: Performance: SearchEngine/syncTables: End at 12.01s (took 103.1ms)
+2026-02-12 22:39:58: ResourceService::indexNoteResources: Start
+2026-02-12 22:39:59: Performance: ResourceService/indexNoteResources: End at 32.32s (took 103.7ms)
+2026-02-12 22:39:59: ResourceService::indexNoteResources: Completed
+2026-02-12 22:39:59: ResourceService::deleteOrphanResources: []
+2026-02-12 22:40:09: SearchEngine: Updating FTS table...
+2026-02-12 22:40:09: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:40:09: SearchEngine: Updated FTS table in 4ms. Inserted: 0. Deleted: 0
+2026-02-12 22:40:09: Performance: SearchEngine/syncTables: End at 42.43s (took 105.5ms)
+2026-02-12 22:44:29: Running background sync on timer...
+2026-02-12 22:44:29: Preparing scheduled sync
+2026-02-12 22:44:29: Sync cancelled - no sync target is selected.
+2026-02-12 22:44:29: OcrService: Found 0 resources to process...
+2026-02-12 22:44:29: OcrService: 0 resources have been processed.
