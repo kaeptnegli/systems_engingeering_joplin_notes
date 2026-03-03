@@ -1,0 +1,285 @@
+2026-02-12 22:26:55: App: Profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:26:55: App: Root profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:26:55: Database was open successfully
+2026-02-12 22:26:55: Checking for database schema update...
+2026-02-12 22:26:56: Current database version <null>
+2026-02-12 22:26:56: Upgrading database from version 0
+2026-02-12 22:26:56: Converting database to version 1
+2026-02-12 22:26:56: Converting database to version 2
+2026-02-12 22:26:56: Converting database to version 3
+2026-02-12 22:26:56: Converting database to version 4
+2026-02-12 22:26:56: Converting database to version 5
+2026-02-12 22:26:56: Converting database to version 6
+2026-02-12 22:26:56: Converting database to version 7
+2026-02-12 22:26:56: Converting database to version 8
+2026-02-12 22:26:56: Converting database to version 9
+2026-02-12 22:26:56: Converting database to version 10
+2026-02-12 22:26:56: Converting database to version 11
+2026-02-12 22:26:56: Converting database to version 12
+2026-02-12 22:26:56: Converting database to version 13
+2026-02-12 22:26:56: Converting database to version 14
+2026-02-12 22:26:56: Converting database to version 15
+2026-02-12 22:26:56: Converting database to version 16
+2026-02-12 22:26:56: Converting database to version 17
+2026-02-12 22:26:56: Converting database to version 18
+2026-02-12 22:26:56: Converting database to version 19
+2026-02-12 22:26:56: Converting database to version 20
+2026-02-12 22:26:56: Converting database to version 21
+2026-02-12 22:26:56: Converting database to version 22
+2026-02-12 22:26:56: Converting database to version 23
+2026-02-12 22:26:56: Converting database to version 24
+2026-02-12 22:26:56: Converting database to version 25
+2026-02-12 22:26:56: Converting database to version 26
+2026-02-12 22:26:56: Converting database to version 27
+2026-02-12 22:26:56: Converting database to version 28
+2026-02-12 22:26:56: Converting database to version 29
+2026-02-12 22:26:56: Converting database to version 30
+2026-02-12 22:26:56: Converting database to version 31
+2026-02-12 22:26:56: Converting database to version 32
+2026-02-12 22:26:56: Converting database to version 33
+2026-02-12 22:26:56: Converting database to version 34
+2026-02-12 22:26:56: Migration failed with fallback and will not be repeated - saving version number
+2026-02-12 22:26:56: Converting database to version 35
+2026-02-12 22:26:56: Converting database to version 36
+2026-02-12 22:26:56: Converting database to version 37
+2026-02-12 22:26:56: Converting database to version 38
+2026-02-12 22:26:56: Converting database to version 39
+2026-02-12 22:26:56: Converting database to version 40
+2026-02-12 22:26:56: Converting database to version 41
+2026-02-12 22:26:56: Converting database to version 42
+2026-02-12 22:26:56: Converting database to version 43
+2026-02-12 22:26:56: Converting database to version 44
+2026-02-12 22:26:56: Converting database to version 45
+2026-02-12 22:26:56: Converting database to version 46
+2026-02-12 22:26:56: Converting database to version 47
+2026-02-12 22:26:56: Converting database to version 48
+2026-02-12 22:26:56: Converting database to version 49
+2026-02-12 22:26:56: New version: 49. Previously recorded version: 0
+2026-02-12 22:26:56: Initializing tables...
+2026-02-12 22:26:56: KeychainService: Driver unsupported:electron-safeStorage
+2026-02-12 22:26:56: KeychainService: Driver unsupported:node-keytar
+2026-02-12 22:26:56: KeychainService: checking if keychain supported
+2026-02-12 22:26:56: KeychainService: Failed to start in read-only mode -- no supported drivers found.
+2026-02-12 22:26:56: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2026-02-12 22:26:56: handleSyncStartupOperation: Processing operation: 0
+2026-02-12 22:26:56: App: Client ID: cdd422627a774fa69907f14078204617
+2026-02-12 22:26:56: First start: detected locale as en_GB
+2026-02-12 22:26:56: models/Setting: Skipping all default migrations...
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: ResourceFetcher: Auto-add resources: Mode: always
+2026-02-12 22:26:56: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2026-02-12 22:26:56: ResourceFetcher: Auto-added resources: 0
+2026-02-12 22:26:56: permanentlyDeleteOldData: Items to permanently delete: {"folderIds":[],"noteIds":[]}
+2026-02-12 22:26:56: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2026-02-12 22:26:56: Running migration: 20
+2026-02-12 22:26:56: DeleteAction: MigrationService: ; Item IDs: 1
+2026-02-12 22:26:56: Running migration: 27
+2026-02-12 22:26:56: DeleteAction: MigrationService: ; Item IDs: 2
+2026-02-12 22:26:56: Running migration: 33
+2026-02-12 22:26:56: SearchEngine: Updating FTS table...
+2026-02-12 22:26:56: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:26:56: SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0
+2026-02-12 22:26:56: Performance: SearchEngine/syncTables: End at 2.14s (took 103.6ms)
+2026-02-12 22:26:56: DeleteAction: MigrationService: ; Item IDs: 3
+2026-02-12 22:26:56: Running migration: 35
+2026-02-12 22:26:56: SearchEngine: Updating FTS table...
+2026-02-12 22:26:56: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:26:56: SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0
+2026-02-12 22:26:56: Performance: SearchEngine/syncTables: End at 2.25s (took 104.1ms)
+2026-02-12 22:26:56: DeleteAction: MigrationService: ; Item IDs: 4
+2026-02-12 22:26:56: Running migration: 42
+2026-02-12 22:26:56: DeleteAction: MigrationService: ; Item IDs: 5
+2026-02-12 22:26:56: Performance: BaseApplication/start: End at 2.26s (took [[ 1.22s ]])
+2026-02-12 22:26:56: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: app.start: doing regular boot
+2026-02-12 22:26:56: App: Setting up auto-updater service...
+2026-02-12 22:26:56: OcrService: Starting background service...
+2026-02-12 22:26:56: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:26:56: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:26:56: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:26:56: OcrService: Found 0 resources to process...
+2026-02-12 22:26:56: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2026-02-12 22:26:56: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/cache/io.github.jackgruber.backup
+2026-02-12 22:26:56: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/cache/io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:26:56: Performance: app/initPluginService: End at 2.43s (took 113.7ms)
+2026-02-12 22:26:56: SpellCheckerServiceDriverNative: Set effective languages to "en-US"
+2026-02-12 22:26:56: SpellCheckerServiceDriverNative: Set effective languages to "en-US"
+2026-02-12 22:26:56: Performance: app/start: End at 2.46s (took [[ 1.42s ]])
+2026-02-12 22:26:57: Performance: main: End at 2.6s (took [[ 1.58s ]])
+2026-02-12 22:26:57: joplin.plugins: Starting plugin: io.github.jackgruber.backup
+2026-02-12 22:26:57: OcrService: 0 resources have been processed.
+2026-02-12 22:26:57: joplin.plugins: Starting plugin: io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:26:57: useFormNote: Sync has finished and note has never been changed - reloading it
+2026-02-12 22:26:57: useFormNote: [warn] Trying to reload note that has been deleted: <null>
+2026-02-12 22:26:57: OcrService: Found 1 resources to process...
+2026-02-12 22:26:57: joplin.plugins: Finished running onStart handler: io.github.personalizedrefrigerator.js-draw (Took 189ms)
+2026-02-12 22:26:57: OcrService: Processing resource 1 / 1: 5d59528f72b34e1aa8d09b468ca34e56 (type image/png)...
+2026-02-12 22:26:57: useFormNote: Sync has finished and note has never been changed - reloading it
+2026-02-12 22:26:57: OcrService: Processing resource 2 / 1: 998faade587e4870a8cdfb9ab4be8b8d (type image/png)...
+2026-02-12 22:26:57: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:26:57: OcrService: Processing resource 3 / 1: 8db8a65b1c8c4ae98b56dba99bc9489b (type image/png)...
+2026-02-12 22:26:57: joplin.plugins: Finished running onStart handler: io.github.jackgruber.backup (Took 752ms)
+2026-02-12 22:26:58: OcrDriverTesseract: Created worker: 1
+2026-02-12 22:26:58: OcrDriverTesseract: Created worker: 2
+2026-02-12 22:26:58: OcrDriverTesseract: Created worker: 3
+2026-02-12 22:26:58: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[],"effectiveNoteId":"71c972fb0ab04337bde75b9d90bb99b0","windowId":"default"}
+2026-02-12 22:26:58: ResourceService::indexNoteResources: Start
+2026-02-12 22:26:58: OcrService: 3 resources have been processed.
+2026-02-12 22:26:59: Performance: ResourceService/indexNoteResources: End at 4.63s (took 152.6ms)
+2026-02-12 22:26:59: ResourceService::indexNoteResources: Completed
+2026-02-12 22:32:57: App: Profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:32:57: App: Root profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:32:57: Database was open successfully
+2026-02-12 22:32:57: Checking for database schema update...
+2026-02-12 22:32:57: Current database version {"version":49,"table_fields_version":49}
+2026-02-12 22:32:57: Upgrading database from version 49
+2026-02-12 22:32:57: New version: 49. Previously recorded version: 49
+2026-02-12 22:32:57: KeychainService: Driver unsupported:electron-safeStorage
+2026-02-12 22:32:57: KeychainService: Driver unsupported:node-keytar
+2026-02-12 22:32:57: KeychainService: checking if keychain supported
+2026-02-12 22:32:57: KeychainService: check was already done - skipping. Supported: 0
+2026-02-12 22:32:57: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2026-02-12 22:32:57: handleSyncStartupOperation: Processing operation: 0
+2026-02-12 22:32:57: App: Client ID: cdd422627a774fa69907f14078204617
+2026-02-12 22:32:57: models/Setting: Applying default migrations...
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: ResourceFetcher: Auto-add resources: Mode: always
+2026-02-12 22:32:57: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2026-02-12 22:32:57: ResourceFetcher: Auto-added resources: 0
+2026-02-12 22:32:57: permanentlyDeleteOldData: Items to permanently delete: {"folderIds":[],"noteIds":[]}
+2026-02-12 22:32:57: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2026-02-12 22:32:57: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: app.start: doing regular boot
+2026-02-12 22:32:57: App: Setting up auto-updater service...
+2026-02-12 22:32:57: OcrService: Starting background service...
+2026-02-12 22:32:57: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:32:57: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:32:57: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:32:57: OcrService: Found 0 resources to process...
+2026-02-12 22:32:57: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2026-02-12 22:32:57: Performance: app/listen for main process events: End at 1.55s (took [ 0.61s ])
+2026-02-12 22:32:57: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/cache/io.github.jackgruber.backup
+2026-02-12 22:32:57: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/cache/io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:32:57: OcrService: 0 resources have been processed.
+2026-02-12 22:32:57: Performance: app/initPluginService: End at 1.67s (took 118.3ms)
+2026-02-12 22:32:58: SpellCheckerServiceDriverNative: Set effective languages to "en-US"
+2026-02-12 22:32:58: Performance: app/start: End at 1.69s (took [ 0.81s ])
+2026-02-12 22:32:58: Performance: main: End at 1.87s (took [[ 1.01s ]])
+2026-02-12 22:32:58: Preparing scheduled sync
+2026-02-12 22:32:58: Sync cancelled - no sync target is selected.
+2026-02-12 22:32:58: Updating all notifications...
+2026-02-12 22:32:58: Garbage collecting alarms...
+2026-02-12 22:32:58: joplin.plugins: Starting plugin: io.github.jackgruber.backup
+2026-02-12 22:32:58: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:32:58: joplin.plugins: Starting plugin: io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:32:58: useFormNote: Sync has finished and note has never been changed - reloading it
+2026-02-12 22:32:58: joplin.plugins: Finished running onStart handler: io.github.personalizedrefrigerator.js-draw (Took 545ms)
+2026-02-12 22:32:59: joplin.plugins: Finished running onStart handler: io.github.jackgruber.backup (Took 758ms)
+2026-02-12 22:32:59: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:32:59: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[],"effectiveNoteId":"71c972fb0ab04337bde75b9d90bb99b0","windowId":"default"}
+2026-02-12 22:33:01: RevisionService: maintenance: Starting...
+2026-02-12 22:33:01: RevisionService: maintenance: Service is enabled
+2026-02-12 22:33:01: RevisionService: collectRevisions: Created revisions for 0 notes
+2026-02-12 22:33:01: RevisionService: maintenance: Done in 136ms
+2026-02-12 22:33:07: SearchEngine: Updating FTS table...
+2026-02-12 22:33:07: Updating items_normalized from {"updated_time":0,"id":""}
+2026-02-12 22:33:07: SearchEngine: Updated FTS table in 72ms. Inserted: 8. Deleted: 0
+2026-02-12 22:33:07: Performance: SearchEngine/syncTables: End at 11.09s (took 174.7ms)
+2026-02-12 22:37:31: App: Profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:37:31: App: Root profile directory: /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop
+2026-02-12 22:37:31: Database was open successfully
+2026-02-12 22:37:31: Checking for database schema update...
+2026-02-12 22:37:31: Current database version {"version":49,"table_fields_version":49}
+2026-02-12 22:37:31: Upgrading database from version 49
+2026-02-12 22:37:31: New version: 49. Previously recorded version: 49
+2026-02-12 22:37:31: KeychainService: Driver unsupported:electron-safeStorage
+2026-02-12 22:37:31: KeychainService: Driver unsupported:node-keytar
+2026-02-12 22:37:31: KeychainService: checking if keychain supported
+2026-02-12 22:37:31: KeychainService: check was already done - skipping. Supported: 0
+2026-02-12 22:37:31: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2026-02-12 22:37:31: handleSyncStartupOperation: Processing operation: 0
+2026-02-12 22:37:31: App: Client ID: cdd422627a774fa69907f14078204617
+2026-02-12 22:37:31: models/Setting: Applying default migrations...
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: ResourceFetcher: Auto-add resources: Mode: always
+2026-02-12 22:37:31: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2026-02-12 22:37:31: ResourceFetcher: Auto-added resources: 0
+2026-02-12 22:37:31: permanentlyDeleteOldData: Items to permanently delete: {"folderIds":[],"noteIds":[]}
+2026-02-12 22:37:31: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2026-02-12 22:37:31: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: app.start: doing regular boot
+2026-02-12 22:37:31: App: Setting up auto-updater service...
+2026-02-12 22:37:31: OcrService: Starting background service...
+2026-02-12 22:37:31: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: App: "syncInfoCache" was changed - setting up encryption related code
+2026-02-12 22:37:31: e2ee/utils: Trying to load 0 master keys...
+2026-02-12 22:37:31: e2ee/utils: Loaded master keys: 0
+2026-02-12 22:37:31: OcrService: Found 0 resources to process...
+2026-02-12 22:37:31: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2026-02-12 22:37:32: Performance: app/listen for main process events: End at 1.58s (took [ 0.57s ])
+2026-02-12 22:37:32: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/cache/io.github.jackgruber.backup
+2026-02-12 22:37:32: PluginService: Loading plugin from /home/kaeptn-egli/snap/joplin-desktop/134/.config/joplin-desktop/cache/io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:37:32: OcrService: 0 resources have been processed.
+2026-02-12 22:37:32: SpellCheckerServiceDriverNative: Set effective languages to "en-US"
+2026-02-12 22:37:32: Performance: app/start: End at 1.69s (took [ 0.76s ])
+2026-02-12 22:37:32: Performance: main: End at 1.83s (took [ 0.92s ])
+2026-02-12 22:37:32: joplin.plugins: Starting plugin: io.github.jackgruber.backup
+2026-02-12 22:37:32: joplin.plugins: Starting plugin: io.github.personalizedrefrigerator.js-draw
+2026-02-12 22:37:32: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:37:32: Preparing scheduled sync
+2026-02-12 22:37:32: Sync cancelled - no sync target is selected.
+2026-02-12 22:37:32: Updating all notifications...
+2026-02-12 22:37:32: Garbage collecting alarms...
+2026-02-12 22:37:32: useFormNote: Sync has finished and note has never been changed - reloading it
+2026-02-12 22:37:33: joplin.plugins: Finished running onStart handler: io.github.personalizedrefrigerator.js-draw (Took 457ms)
+2026-02-12 22:37:33: joplin.plugins: Finished running onStart handler: io.github.jackgruber.backup (Took 676ms)
+2026-02-12 22:37:33: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[],"effectiveNoteId":"71c972fb0ab04337bde75b9d90bb99b0","windowId":"default"}
+2026-02-12 22:37:33: DecryptionWorker: cannot start because no master key is currently loaded.
+2026-02-12 22:37:35: RevisionService: maintenance: Starting...
+2026-02-12 22:37:35: RevisionService: maintenance: Service is enabled
+2026-02-12 22:37:35: RevisionService: collectRevisions: Created revisions for 0 notes
+2026-02-12 22:37:35: RevisionService: maintenance: Done in 109ms
